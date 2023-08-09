@@ -1,0 +1,3 @@
+License Plate: , Fined: $200
+License Plate: YB 6433, Fined: $200
+License Plate: YB 64353, Fined: $200
